@@ -1,0 +1,452 @@
+﻿#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105348
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 1
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105345
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 2
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105346
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Info
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105462
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TV Republika
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105463
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",wPolsce24
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105464
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat News
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105465
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat News 2
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105466
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat News Polityka
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/155148
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVN 24
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105467
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVN 24 BiS
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105468
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Wydarzenia 24
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/151853
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Biznes 24
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/119834
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TV Trwam
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105461
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",AMC
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105360
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Antena
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/151847
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Ale Kino+
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105361
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ PREMIUM
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105362
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ 1
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105363
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ Film
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105364
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ 360
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105365
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ Seriale
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105366
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HBO
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105368
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HBO 2
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105369
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HBO 3
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105370
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Cinemax
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105371
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Cinemax 2
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105372
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Filmbox Extra
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105373
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Filmbox Action
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105374
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Filmbox Arthouse
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105375
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Filmbox Premium
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105376
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Filmbox Family
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105377
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FX
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105378
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FX Comedy
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105379
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",13 Ulica
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105380
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",AXN
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105381
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",AXN Black
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105382
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",AXN Spin
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105383
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",AXN White
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105384
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Stopklatka TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105387
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Active Family
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105388
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Kino Polska
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105389
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Kino TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105390
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Sundance
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105391
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Film
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105392
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Romance TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105394
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Paramount Network
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105395
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",SciFi
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105396
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Warner TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105397
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Film Cafe
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105406
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FilMax
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/155043
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",VOD 205
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105549
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",VOD 206
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105550
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",VOD 207
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105551
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",VOD 208
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105552
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BBC Brit
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105403
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",DTX
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105415
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVN Turbo
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105442
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Motowizja
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105443
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105349
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat 2
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105350
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Super Polsat
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105351
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVN
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105352
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TTV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105353
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TV 4
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105354
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TV 6
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105355
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVN 7
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105356
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TV Puls
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105357
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Puls 2
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105358
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Comedy Central
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105385
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Comedy Central Extra
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105386
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVN Fabula
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105393
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Seriale
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105398
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Metro
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105399
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Adventure
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105400
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Animal Planet
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105401
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BBC First
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105402
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BBC Lifestyle
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105404
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BBC Earth
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105405
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CI Polsat
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105408
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Discovery
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105410
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Discovery Historia
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105411
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Discovery Life
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105412
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Discovery Science
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105413
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ID
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105414
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ Domo
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105416
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Epic Drama
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105417
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",E! Entertainment
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105418
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Red Carpet TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/134089
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Food Network
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105419
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fokus TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105420
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",History
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105421
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",History 2
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105422
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",National Geographic
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105423
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",National Geographic Wild
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105424
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Nat Geo People
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105425
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Planete+
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105426
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Water Planet
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105427
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Doku
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105428
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Viasat History
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105429
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Viasat Explore
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105430
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Viasat Nature
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105431
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Cafe
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105432
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Rodzina
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105433
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Seriale
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105434
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Play
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105435
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Nuta Gold
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105437
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ Kuchnia
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105438
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",StudioMed TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105440
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVN Style
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105441
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVS
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105444
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVC Polska
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105445
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TLC
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105446
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TBN Polska
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/134088
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TELE 5
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105447
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Novelas+
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/135978
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Novela TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105448
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polonia 1
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105449
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Polonia
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105450
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Kultura
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105451
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Rozrywka
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105452
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Historia
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105453
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Dokument
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/134087
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Nowa TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105455
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Travel Channel
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105456
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",HGTV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105457
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Home TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/120417
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Zoom TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105458
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TV Okazje
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105459
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVT
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105519
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",WP
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105460
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Bialystok
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105469
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105347
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Bydgoszcz
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105470
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Gdansk
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105471
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Gorzów Wielkopolski
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105472
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Katowice
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105473
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Kielce
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105474
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Kraków
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105475
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Lublin
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105476
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Lódz
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105477
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Olsztyn
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105478
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Opole
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105479
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Poznan
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105480
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Rzeszów
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105481
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Szczecin
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105482
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Warszawa
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105483
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP 3 Wroclaw
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105484
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BBC CBeebies
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105485
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Nick Jr Polska
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105486
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Nickelodeon
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105487
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NickToons
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105488
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Disney Channel
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105489
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Baby TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105490
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Cartoonito
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105491
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Cartoon Network
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105492
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Disney Junior
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105493
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Disney XD
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105494
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MiniMini+
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105495
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP ABC
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105496
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Jim Jam
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105497
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TeleTOON+
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105498
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Da Vinci Learning
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105499
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TOP Kids
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/120419
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TeenNick
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/152819
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",4Fun Kids
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105501
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",4Fun.TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105500
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",4Fun Dance
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105502
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Disco Polo Music
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105503
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Eska Rock TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105506
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Kino Polska Muzyka
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105507
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NickMusic
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105508
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MTV Live
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105509
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MTV Polska
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105510
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MTV 90s
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105511
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",NUTA TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105512
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polo TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105513
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Music
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105514
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Power TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105515
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",STARS.TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105516
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MTV 00s
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105517
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",VOX Music TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105518
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ Sport
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105520
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ Sport 2
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105521
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ Sport 3
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105522
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ Sport 4
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105523
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ Sport 5
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/153306
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ NOW
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105524
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Eleven Sports 1
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105525
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Eleven Sports 2
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105526
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Eleven Sports 3
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105527
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Eleven Sports 4
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105528
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Sport
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105530
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Sport Extra
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105531
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Sport Fight
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105532
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Sport News
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105533
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Games
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105534
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Sport Premium 1
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105535
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Sport Premium 2
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105536
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Sport Premium 3 PPV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105537
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Sport Premium 4 PPV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105538
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Sport Premium 5 PPV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105539
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Sport Premium 6 PPV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105540
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fightklub
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105541
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Extreme Sports
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105542
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Sportklub
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105543
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Eurosport 1
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105544
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Eurosport 2
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105545
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Fightbox
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105546
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Golf Channel
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105547
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Sport
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/105548
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Kobieta
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/155036
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Historia 2
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/155037
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP ABC 2
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/155038
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Nauka
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/155039
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Xtreme TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/155040
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BollywooD
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/155041
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Novelas+1
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/155042
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CBS Reality
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/155082
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Crime+ Investigation Polsat
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/155083
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ Dokument
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/155084
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Eska TV
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/155186
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Eska TV Extra
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/155187
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TNT
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/155234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polsat Sport 1
+http://bocian.io:8880/waldek63/ODY1NjAwMTQ1/155255
