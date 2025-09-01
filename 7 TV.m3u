@@ -1,0 +1,360 @@
+#EXTM3U url-tvg="https://epg.ovh/pltv.xml"
+#EXTINF:-1 ,TVP
+http://185.236.229.62:9981/play/a02i
+#EXTINF:-1 ,TVP 1
+http://185.236.229.62:9981/play/a05i
+#EXTINF:-1 ,TVP 2
+http://185.236.229.62:9981/play/a07p
+#EXTINF:-1 ,TV Republika
+http://185.236.229.62:9981/play/a027
+#EXTINF:-1 ,Polsat
+http://185.236.229.62:9981/play/a03v
+#EXTINF:-1 ,TVN
+http://185.236.229.62:9981/play/a06u
+#EXTINF:-1 ,13 Ulica
+http://185.236.229.62:9981/play/a03o
+#EXTINF:-1 ,Ale Kino+
+http://185.236.229.62:9981/play/a056
+#EXTINF:-1 ,AXN
+http://185.236.229.62:9981/play/a07a
+#EXTINF:-1 ,AXN Black
+http://185.236.229.62:9981/play/a075
+#EXTINF:-1 ,AXN Spin
+http://185.236.229.62:9981/play/a044
+#EXTINF:-1 ,AXN White
+http://185.236.229.62:9981/play/a074
+#EXTINF:-1 ,Active Family
+http://185.236.229.62:9981/play/a04a
+#EXTINF:-1 ,FilmBox Action
+http://185.236.229.62:9981/play/a033
+#EXTINF:-1 ,FilmBox Extra
+http://185.236.229.62:9981/play/a036
+#EXTINF:-1 ,FilmBox Family
+http://185.236.229.62:9981/play/a032
+#EXTINF:-1 ,Filmbox Arthouse
+http://185.236.229.62:9981/play/a028
+#EXTINF:-1 ,Filmbox Premium
+http://185.236.229.62:9981/play/a02x
+#EXTINF:-1 ,Canal+ 1
+http://185.236.229.62:9981/play/a05s
+#EXTINF:-1 ,Canal+ NOW
+http://185.236.229.62:9981/play/a045
+#EXTINF:-1 ,Canal+ Dokument
+http://185.236.229.62:9981/play/a059
+#EXTINF:-1 ,Canal+ Domo
+http://185.236.229.62:9981/play/a05u
+#EXTINF:-1 ,Canal+ Family
+http://185.236.229.62:9981/play/a04z
+#EXTINF:-1 ,Canal+ Kuchnia
+http://185.236.229.62:9981/play/a053
+#EXTINF:-1 ,Canal+ Premium
+http://185.236.229.62:9981/play/a04b
+#EXTINF:-1 ,Canal+ Seriale
+http://185.236.229.62:9981/play/a058
+#EXTINF:-1 ,Canal+ Film
+http://185.236.229.62:9981/play/a04y
+#EXTINF:-1 ,HBO
+http://185.236.229.62:9981/play/a06k
+#EXTINF:-1 ,HBO 2
+http://185.236.229.62:9981/play/a05x
+#EXTINF:-1 ,HBO 3
+http://185.236.229.62:9981/play/a062
+#EXTINF:-1 ,4Fun Dance
+http://185.236.229.62:9981/play/a020
+#EXTINF:-1 ,4Fun Kids
+http://185.236.229.62:9981/play/a01z
+#EXTINF:-1 ,4Fun.TV
+http://185.236.229.62:9981/play/a01y
+#EXTINF:-1 ,Adventure
+http://185.236.229.62:9981/play/a049
+#EXTINF:-1 ,AMC
+http://185.236.229.62:9981/play/a05g
+#EXTINF:-1 ,Antena
+http://185.236.229.62:9981/play/a04h
+#EXTINF:-1 ,BBC Brit
+http://185.236.229.62:9981/play/a06r
+#EXTINF:-1 ,BBC CBeebies
+http://185.236.229.62:9981/play/a06s
+#EXTINF:-1 ,BBC Earth
+http://185.236.229.62:9981/play/a02o
+#EXTINF:-1 ,BBC First
+http://185.236.229.62:9981/play/a02n
+#EXTINF:-1 ,BBC Lifestyle
+http://185.236.229.62:9981/play/a06t
+#EXTINF:-1 ,Biznes 24
+http://185.236.229.62:9981/play/a02s
+#EXTINF:-1 ,Baby TV
+http://185.236.229.62:9981/play/a038
+
+#EXTINF:-1 ,Canal+ Sport
+http://185.236.229.62:9981/play/a04c
+#EXTINF:-1 ,Canal+ Sport 2
+http://185.236.229.62:9981/play/a05t
+#EXTINF:-1 ,Canal+ Sport 3
+http://185.236.229.62:9981/play/a05e
+#EXTINF:-1 ,Canal+ Sport 4
+http://185.236.229.62:9981/play/a05f
+#EXTINF:-1 ,Canal+ Sport 5
+http://185.236.229.62:9981/play/a05h
+
+#EXTINF:-1 ,CBS Europa
+http://185.236.229.62:9981/play/a06i
+#EXTINF:-1 ,CBS Reality
+http://185.236.229.62:9981/play/a02v
+#EXTINF:-1 ,CI Polsat
+http://185.236.229.62:9981/play/a07w
+#EXTINF:-1 ,CNBC
+http://185.236.229.62:9981/play/a04o
+#EXTINF:-1 ,CNN Europe
+http://185.236.229.62:9981/play/a076
+#EXTINF:-1 ,Cartoon Network
+http://185.236.229.62:9981/play/a06e
+#EXTINF:-1 ,Cinemax
+http://185.236.229.62:9981/play/a05p
+#EXTINF:-1 ,Cinemax 2
+http://185.236.229.62:9981/play/a07r
+#EXTINF:-1 ,Comedy Central
+http://185.236.229.62:9981/play/a068
+#EXTINF:-1 ,Da Vinci
+http://185.236.229.62:9981/play/a024
+#EXTINF:-1 ,Disco Polo Music
+http://185.236.229.62:9981/play/a078
+#EXTINF:-1 ,Disney Channel
+http://185.236.229.62:9981/play/a07d
+#EXTINF:-1 ,Disney Junior
+http://185.236.229.62:9981/play/a06n
+#EXTINF:-1 ,Disney XD
+http://185.236.229.62:9981/play/a07c
+#EXTINF:-1 ,Dla Ciebie TV
+http://185.236.229.62:9981/play/a04u
+#EXTINF:-1 ,E! Entertainment
+http://185.236.229.62:9981/play/a03j
+#EXTINF:-1 ,Eleven Sports 1
+http://185.236.229.62:9981/play/a03t
+#EXTINF:-1 ,Eleven Sports 2
+http://185.236.229.62:9981/play/a05y
+#EXTINF:-1 ,Eleven Sports 3
+http://185.236.229.62:9981/play/a061
+#EXTINF:-1 ,Eleven Sports 4
+http://185.236.229.62:9981/play/a046
+#EXTINF:-1 ,Epic Drama
+http://185.236.229.62:9981/play/a029
+#EXTINF:-1 ,Eska Rock
+http://185.236.229.62:9981/play/a08q
+#EXTINF:-1 ,Eska TV Extra
+http://185.236.229.62:9981/play/a021
+#EXTINF:-1 ,Eska TV
+http://185.236.229.62:9981/play/a02f
+#EXTINF:-1 ,Espresso TV
+http://185.236.229.62:9981/play/a04w
+#EXTINF:-1 ,Extreme Sports
+http://185.236.229.62:9981/play/a06h
+#EXTINF:-1 ,FX
+http://185.236.229.62:9981/play/a07u
+#EXTINF:-1 ,Fightbox
+http://185.236.229.62:9981/play/a03n
+#EXTINF:-1 ,Fightklub
+http://185.236.229.62:9981/play/a02l
+
+#EXTINF:-1 ,Fokus TV
+http://185.236.229.62:9981/play/a02g
+#EXTINF:-1 ,Food Network
+http://185.236.229.62:9981/play/a073
+#EXTINF:-1 ,FX  Comedy
+http://185.236.229.62:9981/play/a07t
+#EXTINF:-1 ,Golf Channel
+http://185.236.229.62:9981/play/a03m
+#EXTINF:-1 ,HOME TV
+http://185.236.229.62:9981/play/a048
+#EXTINF:-1 ,History
+http://185.236.229.62:9981/play/a07v
+#EXTINF:-1 ,History 2
+http://185.236.229.62:9981/play/a03l
+#EXTINF:-1 ,Horse TV
+http://185.236.229.62:9981/play/a04r
+#EXTINF:-1 ,Kino Polska
+http://185.236.229.62:9981/play/a05v
+#EXTINF:-1 ,Kino Polska Muzyka
+http://185.236.229.62:9981/play/a030
+#EXTINF:-1 ,Kino TV
+http://185.236.229.62:9981/play/a031
+#EXTINF:-1 ,MTV 00s
+http://185.236.229.62:9981/play/a066
+#EXTINF:-1 ,MTV 90s
+http://185.236.229.62:9981/play/a07f
+#EXTINF:-1 ,MTV Live
+http://185.236.229.62:9981/play/a063
+#EXTINF:-1 ,MTV Polska
+http://185.236.229.62:9981/play/a06b
+#EXTINF:-1 ,Metro
+http://185.236.229.62:9981/play/a06z
+#EXTINF:-1 ,MiniMini+
+http://185.236.229.62:9981/play/a04e
+#EXTINF:-1 ,Motowizja
+http://185.236.229.62:9981/play/a02r
+#EXTINF:-1 ,National Geo
+http://185.236.229.62:9981/play/a04d
+#EXTINF:-1 ,Novelas+
+http://185.236.229.62:9981/play/a05a
+#EXTINF:-1 ,Nuta Gold
+http://185.236.229.62:9981/play/a04k
+#EXTINF:-1 ,Nuta TV
+http://185.236.229.62:9981/play/a04j
+#EXTINF:-1 ,Nat Geo People
+http://185.236.229.62:9981/play/a06f
+#EXTINF:-1 ,Nataly
+http://185.236.229.62:9981/play/a08j
+#EXTINF:-1 ,National Geographic Wild
+http://185.236.229.62:9981/play/a05z
+#EXTINF:-1 ,Nick Jr
+http://185.236.229.62:9981/play/a065
+#EXTINF:-1 ,Nick Music
+http://185.236.229.62:9981/play/a064
+#EXTINF:-1 ,Nickelodeon
+http://185.236.229.62:9981/play/a067
+#EXTINF:-1 ,Nicktoons
+http://185.236.229.62:9981/play/a06a
+#EXTINF:-1 ,Nowa TV
+http://185.236.229.62:9981/play/a02h
+#EXTINF:-1 ,Power TV
+http://185.236.229.62:9981/play/a04i
+#EXTINF:-1 ,Paramount Network Polska
+http://185.236.229.62:9981/play/a069
+#EXTINF:-1 ,Planete+
+http://185.236.229.62:9981/play/a052
+#EXTINF:-1 ,Polo TV
+http://185.236.229.62:9981/play/a02e
+#EXTINF:-1 ,Polsat 2
+http://185.236.229.62:9981/play/a042
+#EXTINF:-1 ,Polsat Cafe
+http://185.236.229.62:9981/play/a03z
+#EXTINF:-1 ,Polsat Comedy Central Extra
+http://185.236.229.62:9981/play/a06c
+#EXTINF:-1 ,Polsat Doku
+http://185.236.229.62:9981/play/a07z
+#EXTINF:-1 ,Polsat Film
+http://185.236.229.62:9981/play/a040
+#EXTINF:-1 ,Polsat Games
+http://185.236.229.62:9981/play/a025
+#EXTINF:-1 ,Polsat Jim Jam
+http://185.236.229.62:9981/play/a07e
+#EXTINF:-1 ,Polsat Music
+http://185.236.229.62:9981/play/a02b
+#EXTINF:-1 ,Polsat News
+http://185.236.229.62:9981/play/a041
+#EXTINF:-1 ,Polsat News 2
+http://185.236.229.62:9981/play/a03u
+#EXTINF:-1 ,Polsat News Polityka
+http://185.236.229.62:9981/play/a07h
+#EXTINF:-1 ,Polsat Play
+http://185.236.229.62:9981/play/a03w
+#EXTINF:-1 ,Polsat Rodzina
+http://185.236.229.62:9981/play/a079
+#EXTINF:-1 ,Polsat Seriale
+http://185.236.229.62:9981/play/a07b
+#EXTINF:-1 ,Polsat Sport Extra
+http://185.236.229.62:9981/play/a07q
+#EXTINF:-1 ,Polsat Sport Fight
+http://185.236.229.62:9981/play/a06l
+#EXTINF:-1 ,Polsat Sport
+http://185.236.229.62:9981/play/a07n
+#EXTINF:-1 ,Polsat Sport News
+http://185.236.229.62:9981/play/a06m
+#EXTINF:-1 ,Polsat Sport Premium 1
+http://185.236.229.62:9981/play/a03r
+#EXTINF:-1 ,Polsat Sport Premium 2
+http://185.236.229.62:9981/play/a03s
+#EXTINF:-1 ,Polsat Sport Premium 3
+http://185.236.229.62:9981/play/a03p
+#EXTINF:-1 ,Polsat Sport Premium 4
+http://185.236.229.62:9981/play/a03q
+#EXTINF:-1 ,Polsat Sport Premium 5
+http://185.236.229.62:9981/play/a07x
+#EXTINF:-1 ,Polsat Sport Premium 6
+http://185.236.229.62:9981/play/a07y
+#EXTINF:-1 ,Polsat Viasat Explore
+http://185.236.229.62:9981/play/a07i
+#EXTINF:-1 ,Polsat Viasat History
+http://185.236.229.62:9981/play/a07o
+#EXTINF:-1 ,Polsat Viasat Nature
+http://185.236.229.62:9981/play/a06g
+#EXTINF:-1 ,Puls 2
+http://185.236.229.62:9981/play/a02y
+#EXTINF:-1 ,Red Carpet TV
+http://185.236.229.62:9981/play/a02q
+#EXTINF:-1 ,Romance TV
+http://185.236.229.62:9981/play/a05j
+#EXTINF:-1 ,Stars TV
+http://185.236.229.62:9981/play/a01x
+#EXTINF:-1 ,SciFi
+http://185.236.229.62:9981/play/a03k
+#EXTINF:-1 ,Sportklub
+http://185.236.229.62:9981/play/a02k
+#EXTINF:-1 ,Stopklatka
+http://185.236.229.62:9981/play/a023
+#EXTINF:-1 ,StudioMed TV
+http://185.236.229.62:9981/play/a050
+#EXTINF:-1 ,Sundance
+http://185.236.229.62:9981/play/a03i
+#EXTINF:-1 ,Super Polsat
+http://185.236.229.62:9981/play/a043
+#EXTINF:-1 ,TTV
+http://185.236.229.62:9981/play/a071
+#EXTINF:-1 ,TV Okazje
+http://185.236.229.62:9981/play/a07m
+#EXTINF:-1 ,TV Puls
+http://185.236.229.62:9981/play/a034
+#EXTINF:-1 ,TV 4
+http://185.236.229.62:9981/play/a03x
+#EXTINF:-1 ,TV 6
+http://185.236.229.62:9981/play/a03y
+#EXTINF:-1 ,TVN 24
+http://185.236.229.62:9981/play/a06x
+#EXTINF:-1 ,TVN 7
+http://185.236.229.62:9981/play/a06y
+#EXTINF:-1 ,TVN Fabula
+http://185.236.229.62:9981/play/a070
+#EXTINF:-1 ,TVN Style
+http://185.236.229.62:9981/play/a06v
+#EXTINF:-1 ,TVN Turbo
+http://185.236.229.62:9981/play/a06w
+#EXTINF:-1 ,TVP 3
+http://185.236.229.62:9981/play/a060
+#EXTINF:-1 ,TVP ABC
+http://185.236.229.62:9981/play/a02z
+#EXTINF:-1 ,TVP Dokument
+http://185.236.229.62:9981/play/a05b
+#EXTINF:-1 ,TVP Historia
+http://185.236.229.62:9981/play/a035
+#EXTINF:-1 ,TVP Info
+http://185.236.229.62:9981/play/a02j
+#EXTINF:-1 ,TVP Kultura
+http://185.236.229.62:9981/play/a02t
+#EXTINF:-1 ,TVP Polonia
+http://185.236.229.62:9981/play/a08m
+#EXTINF:-1 ,TVP Rozrywka
+http://185.236.229.62:9981/play/a026
+#EXTINF:-1 ,TVP Seriale
+http://185.236.229.62:9981/play/a02w
+#EXTINF:-1 ,TVP Sport
+http://185.236.229.62:9981/play/a05l
+#EXTINF:-1 ,TVS
+http://185.236.229.62:9981/play/a02p
+#EXTINF:-1 ,Travel Channel
+http://185.236.229.62:9981/play/a072
+#EXTINF:-1 ,VOX Music TV
+http://185.236.229.62:9981/play/a02d
+#EXTINF:-1 ,Vatican Media Europa
+http://185.236.229.62:9981/play/a06o
+#EXTINF:-1 ,WP
+http://185.236.229.62:9981/play/a02u
+#EXTINF:-1 ,Warner TV
+http://185.236.229.62:9981/play/a06d
+#EXTINF:-1 ,Wydarzenia 24
+http://185.236.229.62:9981/play/a06j
+#EXTINF:-1 ,Zoom TV
+http://185.236.229.62:9981/play/a02a
+#EXTINF:-1 ,teleTOON+
+http://185.236.229.62:9981/play/a051
+#EXTINF:-1 ,wPolsce.pl
+http://185.236.229.62:9981/play/a022
